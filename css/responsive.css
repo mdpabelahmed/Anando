@@ -1,0 +1,457 @@
+/* XL Device :1200px. */
+@media (min-width: 1200px) and (max-width: 1500px) {
+.slicknav_menu {
+	display: none;
+}
+
+}
+
+/* LG Device :992px. */
+@media (min-width: 992px) and (max-width: 1200px) {
+	.container{
+		width: 970px;
+	}
+.slicknav_menu {
+	display: none;
+}
+.banner-content h1 {
+	font-size: 55px;
+}
+.information p {
+	font-size: 16px;
+	letter-spacing: 0px;
+}
+.single-servies {
+	padding: 24px 10px;
+}
+.hire_text {
+	width: 100%;
+}
+.hire_text h1 {
+	font-size: 42px;
+}
+.hire_text a {
+	padding: 4px 44px;
+	font-size: 20px;
+}
+.overlay {
+	width: 97%;
+	height: 97%;
+}
+.overlay_text h4 {
+	font-size: 24px;
+}
+.blog_text h3 {
+	font-size: 24px;
+}
+.blog_text p {
+	font-size: 15px;
+
+}
+.form_row input[type="text"] {
+	width: 32%;
+	margin-right: 11px;
+}
+.form_row input[type="text"]:last-child{
+	margin-right: 0px;
+}
+.contact_icon_txt h3 {
+	font-size: 26px;
+	margin-bottom: 12px;
+}
+
+}
+
+ 
+/* MD Device :768px. */
+@media (min-width: 768px) and (max-width: 991px) {
+.container{
+	width: 750px;
+}
+.slicknav_menu {
+	display: block;
+}
+.slicknav_menu {
+	display: block;
+	width: 100%;
+	position: fixed;
+	z-index: 9999;
+	background: #1a1d19;
+}
+.slicknav_btn {
+	background: transparent;
+}
+.slicknav_nav li{
+	text-align: center;
+	margin-bottom: 0px;
+}
+.slicknav_nav a {
+	border-radius: 0px;
+	color: #fff;
+	text-align: center;
+	background: rgba(10, 45, 124, .9);
+	transition: .3s;
+}
+.slicknav_nav a:hover{
+	color:#0074E8;
+	background: rgba(10, 45, 124, .7);
+}
+.slicknav_nav li {
+	text-align: center;
+	width: 64%;
+	margin: 0 auto;
+}
+.header-area {
+	display: none;
+}
+.banner-content h4 {
+	font-size: 24px;
+}
+.banner-content h1 {
+	font-size: 37px;
+}
+.banner-item {
+	width: 90%;
+}
+.about_area {
+	padding: 80px 0px 50px 0px;
+}s
+.about_desc h3 {
+	font-size: 30px;
+}
+.information {
+	float: left;
+	width: 50%;
+	margin-top: 15px;
+}
+.services_area {
+	padding: 80px 0px 50px 0px;
+}
+.single-servies {
+	width: 46%;
+	float: left;
+	margin: 0px 14px;
+	margin-bottom: 30px;
+}
+.hire_text {
+	width: 100%;
+}
+.hire_text h1 {
+	font-size: 42px;
+}
+.portfolio_menu ul li {
+	font-size: 20px;
+	padding: 6px 20px;
+}
+.single_portfolio {
+	width: 46%;
+	float: left;
+	margin: 14px;
+}
+.overlay {
+	width: 97%;
+	height: 97%;
+}
+.row.new_class {
+	justify-content: center;
+	display: flex;
+}
+.single_counter i {
+	font-size: 30px;
+}
+.single_counter h3 {
+	font-size: 30px;
+}
+.single_counter h4 {
+	font-size: 15px;
+}
+.blog_area {
+	padding: 100px 0px 50px 0px;
+}
+.blog_inner {
+	width: 46%;
+	float: left;
+	margin: 14px;
+}
+.form_row input[type="text"] {
+	width: 32%;
+	margin-right: 10px;
+}
+.form_row input[type="text"]:last-child{
+	margin-right: 0px;
+}
+.contact_area {
+	padding: 100px 0px 40px 0px;
+}
+.footer_link {
+	width: 50%;
+	float: left;
+}
+
+}
+
+ 
+/* Extra small Device. */
+@media (max-width: 575px) {
+.banner-content {
+	width: 100%;
+}
+.slicknav_menu {
+	display: block;
+}
+.slicknav_menu {
+	display: block;
+	width: 100%;
+	position: fixed;
+	z-index: 9999;
+	background: #1a1d19;
+}
+.slicknav_btn {
+	background: transparent;
+}
+.slicknav_nav li{
+	text-align: center;
+	margin-bottom: 0px;
+}
+.slicknav_nav a {
+	border-radius: 0px;
+	color: #fff;
+	text-align: center;
+	background: rgba(10, 45, 124, .9);
+	transition: .3s;
+}
+.slicknav_nav a:hover{
+	color:#0074E8;
+	background: rgba(10, 45, 124, .7);
+}
+.slicknav_nav li {
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+}
+.header-area {
+	display: none;
+}
+.banner-item {
+	width: 100%;
+}
+.banner-content h4 {
+	font-size: 20px;
+}
+.banner-content h1 {
+	font-size: 28px;
+}
+.banner-content p {
+	display: none;
+}
+.banner-button a {
+	height: 45px;
+	width: 130px;
+	line-height: 45px;
+}
+.info_button a {
+	margin-bottom: 14px;
+}
+.progress_bar {
+	margin-top: 25px;
+}
+.about_area {
+	padding: 80px 0px 40px 0px;
+}
+.heading-title p {
+	font-size: 16px;
+}
+.single-servies h3 {
+	font-size: 23px;
+}
+.single-servies p {
+	font-size: 15px;
+}
+.services_area {
+	padding: 80px 0px 40px 0px;
+}
+.hire_text {
+	width: 100%;
+}
+.hire_text h1 {
+	font-weight: 300;
+	font-size: 30px;
+}
+.hire_me_banner {
+	padding: 120px 0px;
+}
+.work_area {
+	padding: 80px 0px 30px 0px;
+}
+.portfolio_menu ul li {
+	font-size: 19px;
+	padding: 3px 8px;
+}
+.overlay {
+	width: 97%;
+	height: 97%;
+}
+.counter_area {
+	padding: 50px 0px;
+}
+.single_counter {
+	margin-bottom: 20px;
+	border-bottom: 1px solid #fff;
+}
+.single_counter h4 {
+	margin-bottom: 10px;
+}
+.testimonial-title h2 {
+	font-size: 35px;
+}
+.blog_area {
+	padding: 80px 0px 40px 0px;
+}
+.blog_text h3 {
+	font-size: 25px;
+}
+.blog_inner {
+	margin-bottom: 20px;
+}
+.contact_area {
+	padding: 80px 0px 40px 0px;
+}
+.form_row input[type="text"] {
+	margin-bottom: 12px;
+}
+.form_group textarea {
+	height: 110px;
+}
+.footer_link {
+	display: flex;
+	justify-content: center;
+}
+.footer_text p {
+	font-size: 16px;
+	text-align: center;
+	padding-top: 15px;
+}
+.contact_icon_txt {
+	display: none;
+}
+.form_row {
+	margin-top: -60px;
+}
+ 
+}
+ 
+
+
+/* SM Small Device :550px. */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+	.container{
+		width: 550px;
+	}
+.slicknav_menu {
+	display: block;
+}
+.slicknav_menu {
+	display: block;
+	width: 100%;
+	position: fixed;
+	z-index: 9999;
+	background: #1a1d19;
+}
+.slicknav_btn {
+	background: transparent;
+}
+.slicknav_nav li{
+	text-align: center;
+	margin-bottom: 0px;
+}
+.slicknav_nav a {
+	border-radius: 0px;
+	color: #fff;
+	text-align: center;
+	background: rgba(10, 45, 124, .9);
+	transition: .3s;
+}
+.slicknav_nav a:hover{
+	color:#0074E8;
+	background: rgba(10, 45, 124, .7);
+}
+.slicknav_nav li {
+	text-align: center;
+	width: 100%;
+	margin: 0 auto;
+}
+.header-area {
+	display: none;
+}
+.banner-content h4 {
+	font-size: 21px;
+}
+.banner-item {
+	width: 95%;
+}
+.banner-content h1 {
+	font-size: 35px;
+
+}
+.banner-content p {
+	font-size: 16px;
+}
+.banner-button a {
+	height: 46px;
+	width: 146px;
+	line-height: 46px;
+}
+.services_area {
+	padding: 80px 0px 40px 0px;
+}
+.hire_text {
+	width: 100%;
+}
+.hire_text h1 {
+	font-size: 33px;
+}
+.hire_me_banner {
+	padding: 110px 0px;
+}
+.hire_text a {
+	padding: 4px 38px;
+	font-size: 19px;
+}
+.portfolio_menu ul li {
+	font-size: 20px;
+	padding: 2px 8px;
+}
+.work_area {
+	padding: 100px 0px 40px 0px;
+}
+.single_counter {
+	margin-bottom: 15px;
+	border-bottom: 1px solid #fff;
+}
+.single_counter h4 {
+	margin-bottom: 10px;
+}
+.blog_inner {
+	margin-bottom: 30px;
+}
+.blog_text h3 {
+	font-size: 30px;
+}
+.blog_area {
+	padding: 100px 0px 40px 0px;
+}
+.form_row input[type="text"] {
+	margin-bottom: 18px;
+}
+.contact_area {
+	padding: 100px 0px 30px 0px;
+}
+.footer_link {
+	width: 50%;
+	float: left;
+}
+.footer_text p {
+	font-size: 15px;
+}
+
+}
